@@ -10,3 +10,4 @@ This repository contains solutions for Python exercises.
 - q3.2.py – Question 3, part 2
 
 STUDENT: Roni Levi ניהול מערכות מידע שנה ב 
+id : 214140949
