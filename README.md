@@ -12,4 +12,3 @@ This repository contains solutions for Python exercises.
 - q5 - בתקייה אחרת שבה יש תתי מחלקות 
 
 STUDENT: Roni Levi ניהול מערכות מידע שנה ב 
-id : 214140949
